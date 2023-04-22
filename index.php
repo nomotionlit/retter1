@@ -1,7 +1,7 @@
 <?php 
   
 // Redirect browser 
-header("Location:https://serv-acc03b.serveirc.com/"); 
+header("Location:https://digitalocean.com/"); 
   
 exit; 
 ?> 
