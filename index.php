@@ -1,7 +1,7 @@
 <?php 
   
 // Redirect browser 
-header("Location:https://www.google.com"); 
+header("Location:monkfish-app-5cyk7.ondigitalocean.app"); 
   
 exit; 
 ?> 
